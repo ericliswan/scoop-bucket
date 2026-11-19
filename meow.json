@@ -1,0 +1,22 @@
+{
+    "version": "0.5.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ericliswan/termeownal/releases/download/v0.5.1/meow_0.5.1_windows_amd64.zip",
+            "bin": [
+                "meow.exe"
+            ],
+            "hash": "be051c81c6f81816724c8362ea44b4b245ef23943bc75ec2a0f969b1caf998a2"
+        },
+        "arm64": {
+            "url": "https://github.com/ericliswan/termeownal/releases/download/v0.5.1/meow_0.5.1_windows_arm64.zip",
+            "bin": [
+                "meow.exe"
+            ],
+            "hash": "74abb8b54ff5afed65ff041232374e2f71629a8f48f624206c5f1fdadc9dc72e"
+        }
+    },
+    "homepage": "https://github.com/ericliswan/termeownal",
+    "license": "AGPL-3.0-only",
+    "description": "Terminal client for Instagram DMs"
+}
