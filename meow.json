@@ -1,19 +1,19 @@
 {
-    "version": "0.5.1",
+    "version": "0.5.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ericliswan/termeownal/releases/download/v0.5.1/meow_0.5.1_windows_amd64.zip",
+            "url": "https://github.com/ericliswan/termeownal/releases/download/v0.5.2/meow_0.5.2_windows_amd64.zip",
             "bin": [
                 "meow.exe"
             ],
-            "hash": "be051c81c6f81816724c8362ea44b4b245ef23943bc75ec2a0f969b1caf998a2"
+            "hash": "fa398c7c51ceee64ce3748302590942e543a8a12eb48574ddcd8f26d9e56e4d7"
         },
         "arm64": {
-            "url": "https://github.com/ericliswan/termeownal/releases/download/v0.5.1/meow_0.5.1_windows_arm64.zip",
+            "url": "https://github.com/ericliswan/termeownal/releases/download/v0.5.2/meow_0.5.2_windows_arm64.zip",
             "bin": [
                 "meow.exe"
             ],
-            "hash": "74abb8b54ff5afed65ff041232374e2f71629a8f48f624206c5f1fdadc9dc72e"
+            "hash": "e0caa26d5386d662953515db99ab88bf5226db22fd2176ede83a81b330fd2da5"
         }
     },
     "homepage": "https://github.com/ericliswan/termeownal",
